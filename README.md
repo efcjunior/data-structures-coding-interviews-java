@@ -7,3 +7,7 @@ This repository contains Java implementations of essential data structures and a
 
 - **Platform**: Educative.io  
 - **Course**: Data Structures for Coding Interviews in Java
+
+## Study Notes
+
+[Notes](notes/index.md)
